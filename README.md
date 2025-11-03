@@ -1,1 +1,1 @@
-# Social-Media-App-with-Posts-Authentication-and-AWS-Deployment
+# Social-Media-App-with-Posts-Authentication-and-AWS-Deployment<img width="1024" height="1536" alt="07e8ad8f-6688-43c3-9d6c-ea9427f0c560" src="https://github.com/user-attachments/assets/343ff6a0-b073-4297-b50c-86a87cd54ab6" />
